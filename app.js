@@ -10,7 +10,7 @@ app.get('/Bacheca/', (req, res) => {
 		{
 			title: "Orto",
 			contents: "Scheda coltivazione degli ortaggi",
-            image: "",
+            image: "bacheca/Orto.jpg",
 			tags: ["pomodoro", "zucchina", "melanzana"],
 		}, 
         {
